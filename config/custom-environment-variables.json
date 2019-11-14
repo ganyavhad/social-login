@@ -1,0 +1,5 @@
+{
+    "environment": "environment",
+    "facebook_client_id": "facebook_client_id",
+    "facebook_secret_key": "facebook_secret_key"
+}
